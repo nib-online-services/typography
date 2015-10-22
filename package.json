@@ -1,0 +1,9 @@
+{
+  "name": "@nib-online-services/typography",
+  "version": "1.0.0",
+  "main.css": "index.css",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nib-online-services/typography.git"
+  }
+}
